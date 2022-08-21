@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
